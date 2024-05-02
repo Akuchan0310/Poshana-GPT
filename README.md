@@ -1,3 +1,7 @@
+-> cd src -> npm start -> then new terminal
+-> cd server -> node server.js
+-> add api key
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
