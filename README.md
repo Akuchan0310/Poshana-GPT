@@ -1,6 +1,6 @@
 -> cd src -> npm start -> then new terminal
 -> cd server -> node server.js
--> add api key
+-> view localhost 3000
 
 # Getting Started with Create React App
 
